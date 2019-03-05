@@ -47,5 +47,10 @@ public class UserController {
         return "hello3";
     }
 
+    @RequestMapping("/")
+    public String greet4(ModelAndView modelAndView){
+        //to do
+        return "index";
+    }
 
 }
