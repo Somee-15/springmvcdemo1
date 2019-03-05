@@ -1,0 +1,4 @@
+com/stackroute/annotationdemo/domain/Movie.class
+com/stackroute/annotationdemo/Main.class
+com/stackroute/annotationdemo/config/BeanConfigurator.class
+com/stackroute/annotationdemo/config/AppConfig.class
